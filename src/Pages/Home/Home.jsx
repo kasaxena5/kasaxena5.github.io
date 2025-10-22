@@ -13,13 +13,7 @@ class Home extends Component {
 
   render() {
     return (
-      <div>
-        <h1>My Class-Based React + Redux App</h1>
-        <p>Redux Count: {this.props.count}</p>
-        <button onClick={this.handleIncrement}>Increment</button>
-        <button onClick={this.handleDecrement}>Decrement</button>
-        <hr />
-      </div>
+      <div></div>
     );
   }
 }

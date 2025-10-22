@@ -18,7 +18,7 @@ class PortfolioNav extends Component {
           { name: 'Home', key: 'home', url: '/', icon: 'Home' },
           { name: 'Projects', key: 'projects', url: '/projects', icon: 'Product' },
           { name: 'About', key: 'about', url: '/about', icon: 'Contact' },
-          { name: 'Contact', key: 'contact', url: '/contact', icon: 'Mail' },
+          { name: 'Experience', key: 'experience', url: '/experience', icon: 'Mail' },
         ],
       },
     ];
